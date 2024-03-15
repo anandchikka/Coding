@@ -9,7 +9,6 @@ This repository documents my journey of coding every day. As a passionate coder,
 - **Consistency**: Code every day, regardless of the complexity or length of the session.
 - **Learning**: Continuously learn new concepts, languages, or techniques through daily practice.
 - **Improvement**: Aim for gradual improvement by tackling challenging problems and projects.
-- **Community**: Engage with the coding community, share experiences, and seek guidance when needed.
 
 ## Contents
 
