@@ -7,7 +7,7 @@ public class StringTask{
 		
 		str=str.toLowerCase();
 		
-		String[] vowels={"A", "O", "Y", "E", "U", "I", "a", "o", "y", "e", "u", "i"};
+		String[] vowels={"a", "o", "y", "e", "u", "i"};
 		
 		for(int i=0; i<vowels.length; i++){
 		    str=str.replace(vowels[i], "");
